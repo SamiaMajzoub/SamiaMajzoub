@@ -1,25 +1,25 @@
 # Hi there, I'm Samia Majzoub 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Actionable+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst;Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Actionable+Insights" />
 
 <br>
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/samia-majzoub/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samia.r.majzoub@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SamiaMajzoub">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SamiaMajzoub?style=for-the-badge"/>
 </a>
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=SamiaMajzoub&style=for-the-badge&color=blue)
 
 </div>
 
