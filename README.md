@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SamiaMajzoub">
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
 </a>
 
@@ -116,7 +116,7 @@ I'm continuously learning new technologies while building projects that combine 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SamiaMajzoub&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -126,7 +126,7 @@ I'm continuously learning new technologies while building projects that combine 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamiaMajzoub&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -136,7 +136,7 @@ I'm continuously learning new technologies while building projects that combine 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaMajzoub&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
