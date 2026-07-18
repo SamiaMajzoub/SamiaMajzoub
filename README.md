@@ -44,34 +44,16 @@ I'm continuously learning new technologies while building projects that combine 
 
 # 🛠 Tech Stack
 
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,sql,c++"/>
-
-## Data Science
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,opencv"/>
-
-## Visualization
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,plotly,powerbi"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-- Google Colab
-
-</div>
-
+<img src="https://skillicons.dev/icons?i=supabase,firebase&theme=light&perline=15" alt="My Skills" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,plotly"/>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png?_=20210102182532" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/1280px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png?_=20251114200801" width="48"/>
+</p>
 
 # ⭐ Featured Projects
 
