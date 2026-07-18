@@ -72,45 +72,6 @@ I'm continuously learning new technologies while building projects that combine 
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamiaMajzoub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiaMajzoub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SamiaMajzoub&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamiaMajzoub&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaMajzoub&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # ⭐ Featured Projects
 
@@ -119,7 +80,6 @@ I'm continuously learning new technologies while building projects that combine 
 | 📊 Power BI Dashboard | Interactive dashboard for business insights and KPI tracking | Power BI |
 | 🧹 Data Cleaning | Data preprocessing, cleaning, and transformation workflows | Python, Pandas |
 | 🤖 Machine Learning | Predictive models with feature engineering and evaluation | Scikit-learn |
-| 📈 SQL Analytics | SQL queries for reporting, optimization, and business insights | SQL, MySQL |
 | 🖥 Computer Vision | Image recognition and deep learning experiments | PyTorch, TensorFlow |
 
 ---
