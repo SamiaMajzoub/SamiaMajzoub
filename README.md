@@ -4,23 +4,6 @@
 
 <br>
 
-<p>
-<a href="https://www.linkedin.com/in/samia-majzoub/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:samia.r.majzoub@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SamiaMajzoub">
-<img src="https://img.shields.io/github/followers/SamiaMajzoub?style=for-the-badge"/>
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=SamiaMajzoub&style=for-the-badge&color=blue)
-
 </div>
 
 ---
@@ -69,23 +52,13 @@ I'm continuously learning new technologies while building projects that combine 
 
 ## Data Science
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/>
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- OpenCV
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,opencv"/>
 
 ## Visualization
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,plotly,powerbi"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-- Power BI
-- Matplotlib
-- Plotly
 
 ## Tools
 
@@ -94,12 +67,9 @@ I'm continuously learning new technologies while building projects that combine 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+
 - Google Colab
-- Excel
+
 </div>
 
 ---
